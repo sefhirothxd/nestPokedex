@@ -25,6 +25,12 @@ $ npm i -g @nestjs/cli
 $ docker-compose up
 ```
 
+5. Recontruir la base de datos
+
+```bash
+localhost:3000/api/v2/seed
+```
+
 ## Starck usado
 
 - NestJS
